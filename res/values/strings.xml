@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Fuzzy Clock</string>
+    <string name="font_size">Font size</string>
+    <string name="hour_size">Hours font size</string>
+    <string name="min_size">Minutes font size</string>
+	<string name="default_hour_size">45</string>
+	<string name="default_min_size">30</string>
+    <string name="save">Save</string>
+    <string name="widget_text">Ace</string>
+	<string name="exact">exactly</string>
+	<string name="min5f">five past</string>
+	<string name="min10f">ten past</string>
+	<string name="min15f">quarter past</string>
+	<string name="min20f">twenty past</string>
+	<string name="min25f">twenty five past</string>
+	<string name="min30">half past</string>
+	<string name="min25t">twenty five to</string>
+	<string name="min20t">twenty to</string>
+	<string name="min15t">quarter to</string>
+	<string name="min10t">ten to</string>
+	<string name="min5t">five to</string>
+	<string name="placeholder">twelve</string>
+	<string name="color">Text color</string>
+	<string-array name="hours1">
+	    <item>twelve</item>
+		<item>one</item>
+		<item>two</item>
+		<item>three</item>
+		<item>four</item>
+		<item>five</item>
+		<item>six</item>
+		<item>seven</item>
+		<item>eight</item>
+		<item>nine</item>
+		<item>ten</item>
+		<item>eleven</item>
+		<item>twelve</item>
+		<item>one</item>
+	</string-array>
+		<string-array name="hours2">
+		<item>twelve</item>	    
+		<item>one</item>
+		<item>two</item>
+		<item>three</item>
+		<item>four</item>
+		<item>five</item>
+		<item>six</item>
+		<item>seven</item>
+		<item>eight</item>
+		<item>nine</item>
+		<item>ten</item>
+		<item>eleven</item>
+		<item>twelve</item>
+		<item>one</item>
+	</string-array>
+	<string-array name="colors">
+        <item>black</item>
+        <item>white</item>
+        <item>red</item>
+        <item>green</item>
+        <item>blue</item>
+    </string-array>
+    <string-array name="color_values">
+        <item>#000000</item>
+        <item>#ffffff</item>
+        <item>#ff0000</item>
+        <item>#00ff00</item>
+        <item>#0000ff</item>
+    </string-array>
+</resources>

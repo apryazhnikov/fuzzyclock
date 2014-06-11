@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Fuzzy Clock</string>
+    <string name="font_size">Размер шрифта</string>
+    <string name="hour_size">Размер шрифта (час)</string>
+    <string name="min_size">Размер шрифта (минута)</string>
+	<string name="default_hour_size">45</string>
+	<string name="default_min_size">30</string>
+    <string name="save">Сохранить</string>
+    <string name="widget_text">Ace</string>
+	<string name="exact">ровно</string>
+	<string name="min5f">пять минут</string>
+	<string name="min10f">десять минут</string>
+	<string name="min15f">четверть</string>
+	<string name="min20f">двадцать минут</string>
+	<string name="min25f">двадцать пять минут</string>
+	<string name="min30">половина</string>
+	<string name="min25t">без двадцати пяти</string>
+	<string name="min20t">без двадцати</string>
+	<string name="min15t">без четверти</string>
+	<string name="min10t">без десяти</string>
+	<string name="min5t">без пяти</string>
+	<string name="placeholder">двенадцать</string>
+	<string name="color">Цвет текста</string>
+	<string-array name="hours2">
+	    <item>первого</item>
+		<item>второго</item>
+		<item>третьего</item>
+		<item>четвертого</item>
+		<item>пятого</item>
+		<item>шестого</item>
+		<item>седьмого</item>
+		<item>восьмого</item>
+		<item>девятого</item>
+		<item>десятого</item>
+		<item>одиннадцатого</item>
+		<item>двенадцатого</item>
+		<item>первого</item>
+		<item>второго</item>
+	</string-array>
+		<string-array name="hours1">
+		<item>двенадцать</item>	    
+		<item>час</item>
+		<item>два</item>
+		<item>три</item>
+		<item>четыре</item>
+		<item>пять</item>
+		<item>шесть</item>
+		<item>семь</item>
+		<item>восемь</item>
+		<item>девять</item>
+		<item>десять</item>
+		<item>одиннадцать</item>
+		<item>двенадцать</item>
+		<item>час</item>
+	</string-array>
+	<string-array name="colors">
+        <item>черный</item>
+        <item>белый</item>
+        <item>красный</item>
+        <item>зеленый</item>
+        <item>синий</item>
+    </string-array>
+    <string-array name="color_values">
+        <item>#000000</item>
+        <item>#ffffff</item>
+        <item>#ff0000</item>
+        <item>#00ff00</item>
+        <item>#0000ff</item>
+    </string-array>
+</resources>

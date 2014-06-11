@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:gravity="center" >
+
+    <TextView
+        android:id="@+id/min_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginRight="1dp"
+        android:lines="1"
+        android:shadowColor="#000000"
+        android:shadowRadius="2"
+        android:maxWidth="250dp"
+        android:text="@string/min25f"
+        android:textColor="#FFFFFF"
+        android:textSize="30.0sp"
+        android:textStyle="bold" >
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/hour_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/min_textview"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30.0px"
+        android:layout_marginTop="-20px"
+        android:lines="1"
+        android:shadowColor="#000000"
+        android:shadowRadius="2"
+        android:text="@string/placeholder"
+        android:textColor="#FFFFFF"
+        android:textSize="45.0sp"
+        android:textStyle="bold" >
+
+    </TextView>
+</RelativeLayout>
